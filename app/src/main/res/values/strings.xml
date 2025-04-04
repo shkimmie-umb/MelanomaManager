@@ -1,12 +1,12 @@
 <resources>
-    <string name="app_name">ParkingManager</string>
+    <string name="app_name">MelanomaManager</string>
     <string name="nav_open">Open</string>
     <string name="nav_close">Close</string>
     <string-array name="car_list">
-        <item>My Car</item>
-        <item>Parents Car</item>
-        <item>Sister Car</item>
-        <item>My Second Car</item>
+        <item>Dr. Robert</item>
+        <item>Dr. Kim</item>
+        <item>Dr. Smith</item>
+        <item>Dr. Henry</item>
     </string-array>
     <string-array name="plate_list">
         <item>My Car(2016 Ford Focus, VA, TVE-8734)</item>

@@ -4,7 +4,7 @@
 	xmlns:tools="http://schemas.android.com/tools"
 	android:layout_width="match_parent"
 	android:layout_height="match_parent"
-	android:background="@drawable/westgarage"
+	android:background="@drawable/umb"
 	android:clickable="true"
 	android:focusableInTouchMode="true"
 	tools:context=".LoginActivity">
@@ -23,7 +23,7 @@
 			android:layout_height="194dp"
 			android:paddingLeft="0px"
 			android:paddingTop="0px"
-			android:src="@drawable/login_logo" />
+			android:src="@drawable/melanoma" />
 
 		<TextView
 			android:layout_width="wrap_content"

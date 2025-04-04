@@ -15,7 +15,7 @@
             android:layout_marginStart="2dp"
             android:layout_marginTop="12dp"
             android:layout_marginEnd="32dp"
-            android:text="Purchase a parking pass"
+            android:text="Request an appointment"
             android:textColor="@color/white"
             android:textSize="24sp"
             android:textStyle="bold"
@@ -40,7 +40,7 @@
                 android:layout_height="match_parent"
                 android:layout_weight="1"
                 android:inputType="none"
-                android:text="Choose your car"
+                android:text="Dermatologists"
                 />
 
         </com.google.android.material.textfield.TextInputLayout>

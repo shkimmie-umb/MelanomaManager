@@ -5,30 +5,30 @@
 
     <item
         android:id="@+id/nav_Parking_Availability"
-        android:title="Parking Availability" />
+        android:title="Hospital Parking" />
 
     <item
         android:id="@+id/nav_ParkingPass_Purchase"
-        android:title="Purchase Parking Pass" />
+        android:title="Request an appointment" />
 
     <item
         android:id="@+id/nav_View_ParkingPass"
-        android:title="View parking pass" />
+        android:title="View appointments" />
 
     <item
         android:id="@+id/nav_ParkingPass_History"
-        android:title="Purchase History" />
+        android:title="Appointment History" />
 
     <item
         android:id="@+id/nav_Create_Parking_Citation"
-        android:title="Create a Citation" />
+        android:title="Warn melanoma" />
 
     <item
         android:id="@+id/nav_Notification_parker"
-        android:title="Notification (Parker)" />
+        android:title="Notification (Patient)" />
     <item
         android:id="@+id/nav_Notification_manager"
-        android:title="Notification (Manager)" />
+        android:title="Notification (Doctor)" />
     <item
         android:id="@+id/nav_logout"
         android:title="Log out" />
